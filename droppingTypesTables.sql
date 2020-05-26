@@ -1,0 +1,16 @@
+DROP TYPE name_type FORCE;
+DROP TYPE address_type FORCE;
+DROP TYPE branch_type FORCE;
+DROP TYPE person_type FORCE;
+DROP TYPE job_type FORCE;
+DROP TYPE employee_type FORCE;
+DROP TYPE customer_type FORCE;
+DROP TYPE account_type FORCE;
+DROP TYPE phone_nested_type FORCE;
+DROP TYPE tp_phone_nested FORCE;
+DROP TABLE job_table;
+DROP TABLE employee_table;
+DROP TABLE account_table;
+DROP TABLE branch_table;
+DROP TABLE customer_table;
+DROP TABLE customer_account;
